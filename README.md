@@ -185,9 +185,9 @@ Perbedaan dari Algorithm dan Data Structure yaitu :
     - Object : Object merupakan sebuah data structure yang dapat kita gunakan untuk menyimpan data secara berpasangan, dan cara penggunaannya yaitu :
         ```object
         let obj = {
-            nama: "Rizky",
-            umur: 17,
-            hobi: "Coding"
+            nama: "Aal",
+            umur: 21,
+            hobi: "Tidur"
         }
         ```
         diatas merupakan contoh penggunaan object, dimana kita mencoba membuat contoh object yang berisi 3 buah data.
